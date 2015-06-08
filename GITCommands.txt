@@ -16,3 +16,5 @@ git push -u origin master : commit remotely
  git pull origin master : take update
  
  $ git diff HEAD : get differences
+ 
+ 
