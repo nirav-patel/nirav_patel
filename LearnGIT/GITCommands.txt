@@ -19,5 +19,11 @@ git push -u origin master : commit remotely
  
  git add octofamily/octodog.txt
  
-  git diff --staged
+  git diff --staged : staged diff
+ 
+ git reset octofamily/octodog.txt : You can unstage files by using the git reset command. Go ahead and remove octofamily/octodog.txt.
+ 
+ git checkout -- octocat.txt : undo
+ 
+ git branch clean_up : Branching Out
  
