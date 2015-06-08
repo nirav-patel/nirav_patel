@@ -1,0 +1,9 @@
+
+git init : to initialize new GIT project
+git status : to check status whether anything to be committed
+git add <file>: to add file to staging area [staged : files are ready to be committed] 
+git rm --cached <file> : to remove file from staging area [unstaged : files removed from staging area]
+git commit -m <"Message"> : commit file to repository
+git config --add var_name var_value : to add some global param
+
+git add '*.txt' : to add using wild cards
