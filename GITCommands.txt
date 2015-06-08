@@ -10,3 +10,9 @@ git add '*.txt' : to add using wild cards
 git log : to view git history
 
 git remote add origin https://github.com/nirav-patel/nirav_patel.git : 
+
+git push -u origin master : commit remotely
+
+ git pull origin master : take update
+ 
+ $ git diff HEAD : get differences
